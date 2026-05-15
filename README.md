@@ -243,11 +243,7 @@ For higher accuracy, train a custom YOLO model on a cricket bat dataset and pass
 
 ---
 
-## License
 
-MIT
-
----
 
 <p align="center">
   <sub>Built with YOLO11-Pose, OpenCV, PyTorch, and NumPy</sub>
