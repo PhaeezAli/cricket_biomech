@@ -1,0 +1,26 @@
+# Model weights (auto-downloaded on first run)
+*.pt
+*.onnx
+
+# Video files (too large for git)
+data/input_videos/*
+data/output_videos/*
+!data/input_videos/.gitkeep
+!data/output_videos/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Interview prep (personal)
+INTERVIEW_PREP.md
